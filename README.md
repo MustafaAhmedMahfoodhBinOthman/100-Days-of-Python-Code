@@ -5,7 +5,7 @@ https://www.udemy.com/course/100-days-of-code/
 
 This was my first course in programming and i completed it after 3 months of daily learning
 here is my certificate! 👇 
-[image](https://github.com/MustafaAhmedMahfoodhBinOthman/100-Days-of-Python-Code/assets/91588583/ec394083-c1ed-4a13-b0ed-d4a3a70998ac)
+![image](https://github.com/MustafaAhmedMahfoodhBinOthman/100-Days-of-Python-Code/assets/91588583/59e35b03-90ac-4502-a107-13d10ed9668d)
 
 Here is the list of all the projects 👇
 
