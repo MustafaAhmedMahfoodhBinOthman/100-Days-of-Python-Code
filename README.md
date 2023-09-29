@@ -1,7 +1,9 @@
-# 100-Days-of-Code
+![image](https://github.com/MustafaAhmedMahfoodhBinOthman/100-Days-of-Python-Code/assets/91588583/55fcf5d0-0efa-486f-934d-81f31c997372)# 100-Days-of-Code
 Here is summery of all the projects from 100 days of python course
 https://www.udemy.com/course/100-days-of-code/
 
+This was my first course in programming and i completed it after 3 months of daily learning
+here is my certificate --> ![image](https://github.com/MustafaAhmedMahfoodhBinOthman/100-Days-of-Python-Code/assets/91588583/ec394083-c1ed-4a13-b0ed-d4a3a70998ac)
 
 Here is the list of all the projects 👇
 
